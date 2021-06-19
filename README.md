@@ -1,3 +1,4 @@
+![UCLA '23. Go Bruins!](royce.svg)
 # Welcome to my Github!
 I'm Dan, a Computer Science student at University of California, Los Angeles.
 
